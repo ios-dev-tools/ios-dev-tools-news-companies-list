@@ -1,7 +1,7 @@
 # iOS Dev Tools
 ## News - Company list
 ### Info
-[iOS Dev Tools News Page](https://iosev.tools) was created to keep track of companies and quicker access to their knowledge. These companies have a lot of great learnings, ones that are really valuable to you as developer. 
+[iOS Dev Tools News Page](https://iosdev.tools/news) was created to keep track of companies and quicker access to their knowledge. These companies have a lot of great learnings, ones that are really valuable to you as developer. 
 
 Next to that it is also a great way to know latest launches, updates!
 
