@@ -24,6 +24,7 @@ We would love your support in this! 💙
 - **bugsnag**: https://www.bugsnag.com/blog/rss.xml
 - **CircleCI**: https://circleci.com/blog/feed.xml
 - **Cocoapods**: https://blog.cocoapods.org/feed.xml
+- **Emerge Tools**: https://www.emergetools.com/rss.xml
 - **Firebase**: https://firebase.blog/rss.xml
 - **Github**: https://github.blog/feed/
 - **Gitkraken**: https://www.gitkraken.com/feed
