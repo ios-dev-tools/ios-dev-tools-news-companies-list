@@ -14,6 +14,12 @@ We would love to know what companies/tools you want to add. Our news page atm on
 
 We would love your support in this! 💙
 
+⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️
+In our search to make useful features we value feedback! In this case stars are our metric. **The more stars we get the more features we will add to this section to make it more and more useful**. So go ahead and give it a star if you like it! 
+⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️
+
+If you like to suggest functionality, open up an issue or send us an email at hi@iosdev.tools!
+
 
 #### List
 - **Apple Dev News**: https://developer.apple.com/news/rss/news.rss
